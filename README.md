@@ -6,4 +6,4 @@ Made using [Synapse X](https://x.synapse.to) [Drawing Library](https://x.synapse
 ## Preview
 https://user-images.githubusercontent.com/76539058/146468723-2677175c-feea-43f3-8b70-1212162acbef.mp4
 
-**I apologize for the bad quality, It is because of magnifying the video** 
+**I apologize for the bad quality, It is because of magnifying the video.**
